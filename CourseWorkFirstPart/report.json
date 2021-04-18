@@ -1,0 +1,35 @@
+{"Name":"NbcW4p0jMncnbXFlIX","Time arrive":"06:06:33","Time waiting":"00:00:00","Time start unloading":"06:06:33","Time unloaded":"01:22:19"}
+ {"Name":"69N9GHwIbf4uCRNsiNTw","Time arrive":"07:22:08","Time waiting":"00:00:00","Time start unloading":"07:22:08","Time unloaded":"02:00:52"}
+ {"Name":"WnqHuWzNHGYGlrj1y","Time arrive":"11:14:51","Time waiting":"00:00:00","Time start unloading":"11:14:51","Time unloaded":"01:22:30"}
+ {"Name":"TrUjAxdy","Time arrive":"12:07:09","Time waiting":"00:00:00","Time start unloading":"12:07:09","Time unloaded":"02:19:04"}
+ {"Name":"IjrJNDZHuJ50pfCI8IPz","Time arrive":"14:02:19","Time waiting":"00:00:00","Time start unloading":"14:02:19","Time unloaded":"04:02:33"}
+ {"Name":"jY6C5QKDiPPTePZ","Time arrive":"14:19:08","Time waiting":"00:07:06","Time start unloading":"15:02:14","Time unloaded":"03:05:23"}
+ {"Name":"fXdPNmQT","Time arrive":"14:09:18","Time waiting":"00:16:55","Time start unloading":"15:02:13","Time unloaded":"03:16:26"}
+ {"Name":"27ksgkSEhRphVfaaY","Time arrive":"16:03:09","Time waiting":"02:01:44","Time start unloading":"18:04:53","Time unloaded":"02:08:10"}
+ {"Name":"DGUsE61T","Time arrive":"24:06:48","Time waiting":"00:00:00","Time start unloading":"24:06:48","Time unloaded":"01:13:23"}
+ {"Name":"PIGeyxvL","Time arrive":"25:19:46","Time waiting":"00:00:00","Time start unloading":"25:19:46","Time unloaded":"02:04:34"}
+ {"Name":"kkZdgMEA3twwJsFSRl","Time arrive":"09:10:15","Time waiting":"00:00:00","Time start unloading":"09:10:15","Time unloaded":"01:17:41"}
+ {"Name":"rKXGlvSDhoA9","Time arrive":"21:22:52","Time waiting":"00:00:00","Time start unloading":"21:22:52","Time unloaded":"01:15:48"}
+ {"Name":"TReXjW9xr","Time arrive":"23:16:24","Time waiting":"00:00:00","Time start unloading":"23:16:24","Time unloaded":"01:14:06"}
+ {"Name":"Ww4562YQ1","Time arrive":"26:00:08","Time waiting":"00:00:00","Time start unloading":"26:00:08","Time unloaded":"01:11:59"}
+ {"Name":"CrHMhJQmj8IbW8f","Time arrive":"01:03:44","Time waiting":"00:00:00","Time start unloading":"01:03:44","Time unloaded":"01:18:15"}
+ {"Name":"WIgvCXHq","Time arrive":"12:19:02","Time waiting":"00:00:00","Time start unloading":"12:19:02","Time unloaded":"00:21:46"}
+ {"Name":"slEqxAAysib","Time arrive":"15:18:05","Time waiting":"00:00:00","Time start unloading":"15:18:05","Time unloaded":"01:20:56"}
+ {"Name":"Jm5LIJbzEip2zEF","Time arrive":"16:12:54","Time waiting":"00:00:00","Time start unloading":"16:12:54","Time unloaded":"01:22:33"}
+ {"Name":"Ag43cLDyiWunlUJHDWy","Time arrive":"18:10:58","Time waiting":"00:00:00","Time start unloading":"18:10:58","Time unloaded":"02:04:58"}
+ {"Name":"69X7A2XD","Time arrive":"19:00:30","Time waiting":"00:00:00","Time start unloading":"19:00:30","Time unloaded":"01:17:30"}
+ {"Name":"VFZMUvv3r3Y8B09","Time arrive":"19:00:48","Time waiting":"01:15:08","Time start unloading":"20:15:56","Time unloaded":"01:07:30"}
+ {"Name":"MWYPcaXaEMWOHTr9f","Time arrive":"19:10:42","Time waiting":"01:05:15","Time start unloading":"20:15:57","Time unloaded":"02:11:37"}
+ {"Name":"PVNGsq3zIpTgDj4s","Time arrive":"22:10:18","Time waiting":"00:00:00","Time start unloading":"22:10:18","Time unloaded":"02:00:49"}
+ {"Name":"MbOMVwkF4xkKA7U","Time arrive":"22:12:04","Time waiting":"00:15:30","Time start unloading":"23:03:34","Time unloaded":"02:17:36"}
+ {"Name":"KJiVBXm5pjJulE8","Time arrive":"25:09:45","Time waiting":"00:00:00","Time start unloading":"25:09:45","Time unloaded":"02:06:38"}
+
+ {"Count of ships unloaded":25
+,"Average length queue to unloading":0
+,"Average time wait to unloading":"00:00:00"
+,"Max time delay":1398
+,"Average time delay: ":829.36
+,"Sum of fine":136000
+,"Count of loose cranes":2
+,"Count of liquid cranes":1
+,"Count of container cranes":2}

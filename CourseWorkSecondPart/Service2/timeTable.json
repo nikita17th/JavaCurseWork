@@ -1,0 +1,7955 @@
+{
+  "timeTable" : [ {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 0,
+      "minute" : 15
+    },
+    "nameShip" : "4DfN44inVT",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 54035
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 18,
+      "minute" : 3
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 1,
+      "minute" : 16
+    },
+    "nameShip" : "4jP5FKrtXRcxJ",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 52466
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 17
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 2,
+      "minute" : 29
+    },
+    "nameShip" : "iBCHDpWvh8L",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 56907
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 22,
+      "minute" : 50
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 3,
+      "minute" : 6
+    },
+    "nameShip" : "KrGAKAIzKL99",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5847
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 1,
+      "minute" : 27
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 3,
+      "minute" : 51
+    },
+    "nameShip" : "WUWibepn",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3503
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 23
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 4,
+      "minute" : 8
+    },
+    "nameShip" : "yzAggcUq61Cbnv0j1n3",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2505
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 17,
+      "minute" : 45
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 4,
+      "minute" : 24
+    },
+    "nameShip" : "gqVC9tPhI3lD",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 50783
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 8,
+      "minute" : 25
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 5,
+      "minute" : 34
+    },
+    "nameShip" : "myl0EmXa4CJzbsHJE",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 44320
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 1,
+      "minute" : 52
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 7,
+      "minute" : 1
+    },
+    "nameShip" : "enR6QBIwS6j80uJ",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2522
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 18,
+      "minute" : 2
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 9,
+      "minute" : 7
+    },
+    "nameShip" : "XfEZKu6Eb",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 40072
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 47
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 11,
+      "minute" : 17
+    },
+    "nameShip" : "hK1N8ot8t2Wf",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5224
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 15,
+      "minute" : 4
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 15,
+      "minute" : 4
+    },
+    "nameShip" : "hnUszntN0uJJGzflL",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 63234
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 22,
+      "minute" : 15
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 17,
+      "minute" : 13
+    },
+    "nameShip" : "9wLqowiy33W",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 55311
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 13,
+      "minute" : 27
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 19,
+      "minute" : 19
+    },
+    "nameShip" : "vDOt1WW9RUt12rIir",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 57319
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 23,
+      "minute" : 31
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 20,
+      "minute" : 55
+    },
+    "nameShip" : "VdWpVGS5rRQc5IWZ0Mi",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 43630
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 0,
+      "minute" : 43
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 0,
+      "hour" : 21,
+      "minute" : 29
+    },
+    "nameShip" : "EGUrVu0w2n3PR26YgG1",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 50062
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 7,
+      "minute" : 37
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 1,
+      "hour" : 6,
+      "minute" : 1
+    },
+    "nameShip" : "Y5fe1Cemw2YiRx",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 53431
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 22
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 1,
+      "hour" : 13,
+      "minute" : 3
+    },
+    "nameShip" : "vpIFb0EXt",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 68769
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 4,
+      "minute" : 24
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 1,
+      "hour" : 16,
+      "minute" : 2
+    },
+    "nameShip" : "Ez17ceAVxzhV",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2587
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 19,
+      "minute" : 7
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 1,
+      "hour" : 17,
+      "minute" : 17
+    },
+    "nameShip" : "nZLyeG6IOWrSirMVvfi",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 57287
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 23,
+      "minute" : 28
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 1,
+      "hour" : 18,
+      "minute" : 25
+    },
+    "nameShip" : "H43TmMX18s",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 53524
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 28
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 1,
+      "hour" : 18,
+      "minute" : 39
+    },
+    "nameShip" : "d207HAHYE3lVuD",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 55847
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 14,
+      "minute" : 3
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 1,
+      "hour" : 20,
+      "minute" : 15
+    },
+    "nameShip" : "LgkjO1LPcNyuZY8B",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 63001
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 22,
+      "minute" : 0
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 1,
+      "hour" : 20,
+      "minute" : 43
+    },
+    "nameShip" : "kLYmbKbeQkr",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 54780
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 12,
+      "minute" : 52
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 1,
+      "hour" : 21,
+      "minute" : 2
+    },
+    "nameShip" : "Ox08UeI2ER",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3018
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 2,
+      "minute" : 18
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 1,
+      "hour" : 21,
+      "minute" : 3
+    },
+    "nameShip" : "AugTXsjjR85vp",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5567
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 20,
+      "minute" : 47
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 1,
+      "hour" : 21,
+      "minute" : 20
+    },
+    "nameShip" : "tQD8udq4",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2942
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 1,
+      "minute" : 2
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 1,
+      "hour" : 21,
+      "minute" : 37
+    },
+    "nameShip" : "AqbMkFJbl6Mf1g",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 62849
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 49
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 1,
+      "hour" : 22,
+      "minute" : 58
+    },
+    "nameShip" : "yg1QBi3b",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3707
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 13,
+      "minute" : 47
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 1,
+      "hour" : 23,
+      "minute" : 10
+    },
+    "nameShip" : "GPtoOhh11H",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3969
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 9
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 1,
+      "hour" : 23,
+      "minute" : 53
+    },
+    "nameShip" : "0f19P00bv",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 56105
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 21,
+      "minute" : 30
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 2,
+      "minute" : 33
+    },
+    "nameShip" : "AYybN7KK8RKS4y",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 47288
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 6,
+      "minute" : 48
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 5,
+      "minute" : 57
+    },
+    "nameShip" : "Mx3W7bfBvmCX",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 54531
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 18,
+      "minute" : 53
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 6,
+      "minute" : 28
+    },
+    "nameShip" : "jDmHUV1oMHYsOf0U7FhG",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 65856
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 1,
+      "minute" : 10
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 6,
+      "minute" : 56
+    },
+    "nameShip" : "6s4SIzoh",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 57562
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 23,
+      "minute" : 56
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 6,
+      "minute" : 59
+    },
+    "nameShip" : "CcPzLwqXWubVtBaFN5ti",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 53374
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 16,
+      "minute" : 57
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 7,
+      "minute" : 41
+    },
+    "nameShip" : "3AcEUQXZMSIMcaluF",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 51125
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 13,
+      "minute" : 12
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 8,
+      "minute" : 0
+    },
+    "nameShip" : "VbiLAK54Cg",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 59295
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 17,
+      "minute" : 53
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 8,
+      "minute" : 12
+    },
+    "nameShip" : "Fzp3sRa5um",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 40306
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 10
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 30
+    },
+    "nameShip" : "OtQ5IncvxPRSnWCzVvbt",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2107
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 11,
+      "minute" : 7
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 31
+    },
+    "nameShip" : "9s01Hd8Y3",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4453
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 13
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 57
+    },
+    "nameShip" : "rT3vAcOynTxr13Raat0R",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 43666
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 0,
+      "minute" : 46
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 17
+    },
+    "nameShip" : "BHpQ6ndw",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2638
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 19,
+      "minute" : 58
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 13,
+      "minute" : 48
+    },
+    "nameShip" : "mEFd78BCZ3LFzcDF",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 59181
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 17,
+      "minute" : 45
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 14,
+      "minute" : 28
+    },
+    "nameShip" : "QpIpkhZKYlv5Av4Z",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 50272
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 11,
+      "minute" : 47
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 5
+    },
+    "nameShip" : "ashmuUwwH",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3319
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 7,
+      "minute" : 19
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 2
+    },
+    "nameShip" : "oXn934rw9Xz",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 56183
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 21,
+      "minute" : 38
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 17
+    },
+    "nameShip" : "qHIswds410KS1pms9x",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 41545
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 14
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 2,
+      "hour" : 22,
+      "minute" : 5
+    },
+    "nameShip" : "PxAft9Qh8685LADn0L",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5925
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 2,
+      "minute" : 45
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 3,
+      "hour" : 4,
+      "minute" : 15
+    },
+    "nameShip" : "dcybLasDkz4cT3EF",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3260
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 6,
+      "minute" : 20
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 3,
+      "hour" : 8,
+      "minute" : 47
+    },
+    "nameShip" : "FkAL7mgYwX93gqIIiSCh",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 56577
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 22,
+      "minute" : 17
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 3,
+      "hour" : 9,
+      "minute" : 20
+    },
+    "nameShip" : "lqYGup6DKFbxLVwsIJU",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3097
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 3,
+      "minute" : 37
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 3,
+      "hour" : 10,
+      "minute" : 20
+    },
+    "nameShip" : "rE4rYCefUVbBxUL5rcb",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 69859
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 37
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 3,
+      "hour" : 12,
+      "minute" : 31
+    },
+    "nameShip" : "2aOLW7DkdBMesEJ4",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5426
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 18,
+      "minute" : 26
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 3,
+      "hour" : 15,
+      "minute" : 42
+    },
+    "nameShip" : "wOkAFz3Z",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 41795
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 39
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 3,
+      "hour" : 16,
+      "minute" : 15
+    },
+    "nameShip" : "QpNOdkGWPn9UluYRbX",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 41722
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 32
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 3,
+      "hour" : 17,
+      "minute" : 14
+    },
+    "nameShip" : "9J19T2NaKW75O",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 64120
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 23,
+      "minute" : 14
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 3,
+      "hour" : 18,
+      "minute" : 33
+    },
+    "nameShip" : "76HXID4cfbhZL",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 69962
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 44
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 3,
+      "hour" : 20,
+      "minute" : 56
+    },
+    "nameShip" : "VoPMmlie5cKid",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 69430
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 8
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 3,
+      "hour" : 21,
+      "minute" : 50
+    },
+    "nameShip" : "0kK9wYBU9VDpgDKeB6c",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 62282
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 12
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 3,
+      "hour" : 21,
+      "minute" : 53
+    },
+    "nameShip" : "mg8CdlEHPn2US0",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 54204
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 18,
+      "minute" : 20
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 3,
+      "hour" : 22,
+      "minute" : 44
+    },
+    "nameShip" : "6UBPejGv8Zig",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 68948
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 4,
+      "minute" : 36
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 0,
+      "minute" : 2
+    },
+    "nameShip" : "qL8zdUCK",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 68145
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 3,
+      "minute" : 43
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 0,
+      "minute" : 47
+    },
+    "nameShip" : "wHutyNbHWnCYMSUwAh",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5480
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 19,
+      "minute" : 20
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 1,
+      "minute" : 3
+    },
+    "nameShip" : "xpAHNMhW",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2891
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 0,
+      "minute" : 11
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 3,
+      "minute" : 11
+    },
+    "nameShip" : "x3p3wIvABW95Ts",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 41007
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 20
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 4,
+      "minute" : 2
+    },
+    "nameShip" : "eoW133HpRgSeC78B",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 61324
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 8
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 4,
+      "minute" : 3
+    },
+    "nameShip" : "qHR2mXzrcZTp02",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5065
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 12,
+      "minute" : 25
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 4,
+      "minute" : 42
+    },
+    "nameShip" : "fz5HBWfilp",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 53719
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 17,
+      "minute" : 31
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 5,
+      "minute" : 24
+    },
+    "nameShip" : "QpPL9Z3g",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 55213
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 13,
+      "minute" : 20
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 5,
+      "minute" : 28
+    },
+    "nameShip" : "8731TlQw6pVuh",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 68329
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 3,
+      "minute" : 55
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 6,
+      "minute" : 16
+    },
+    "nameShip" : "VL6IhY887hEB8n",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 51725
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 9,
+      "minute" : 28
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 6,
+      "minute" : 36
+    },
+    "nameShip" : "L4ftMCyGw",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5680
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 22,
+      "minute" : 40
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 7,
+      "minute" : 20
+    },
+    "nameShip" : "nv9Xvev84kWIJd",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5620
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 21,
+      "minute" : 40
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 7,
+      "minute" : 26
+    },
+    "nameShip" : "gueltSF5gzVBba",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 50436
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 8,
+      "minute" : 2
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 11,
+      "minute" : 59
+    },
+    "nameShip" : "xS23ToF4SYw4WMQFGH",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4468
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 28
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 13,
+      "minute" : 20
+    },
+    "nameShip" : "9pBF85p1n7WAVyNA",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 59065
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 17,
+      "minute" : 37
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 13,
+      "minute" : 24
+    },
+    "nameShip" : "1PDuNGOqi2wf",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5608
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 21,
+      "minute" : 28
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 13,
+      "minute" : 31
+    },
+    "nameShip" : "C2sMnFJVqQrYEGd4D",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 54437
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 18,
+      "minute" : 43
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 13,
+      "minute" : 36
+    },
+    "nameShip" : "MndmzNqcnBh20JCD",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4863
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 9,
+      "minute" : 3
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 14,
+      "minute" : 28
+    },
+    "nameShip" : "AF8uFRXiy6",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 56255
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 14,
+      "minute" : 30
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 18,
+      "minute" : 46
+    },
+    "nameShip" : "BUwqUX5nQmTa2ONURJSK",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 64532
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 23,
+      "minute" : 42
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 22,
+      "minute" : 5
+    },
+    "nameShip" : "vgrGVPARsH",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 60060
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 44
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 22,
+      "minute" : 35
+    },
+    "nameShip" : "ZL3TFQSZF",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 46532
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 33
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 22,
+      "minute" : 52
+    },
+    "nameShip" : "aTKrdBBd",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 43291
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 0,
+      "minute" : 9
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 23,
+      "minute" : 45
+    },
+    "nameShip" : "8IIjV7ASLWwWQ0jPrPI",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 57702
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 0,
+      "minute" : 10
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 4,
+      "hour" : 23,
+      "minute" : 53
+    },
+    "nameShip" : "AtWGaaw4er23suU0dv",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4188
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 48
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 4,
+      "minute" : 52
+    },
+    "nameShip" : "tB5BSUuN6y7H2uqzJt7n",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 57147
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 23,
+      "minute" : 14
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 5,
+      "minute" : 28
+    },
+    "nameShip" : "f81QaW4aUWBdS2",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 52729
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 35
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 5,
+      "minute" : 36
+    },
+    "nameShip" : "DvNDoUUANtaHYKZUW",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 41651
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 25
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 7,
+      "minute" : 58
+    },
+    "nameShip" : "iv2h0NIDPwDPnvF",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 58738
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 17,
+      "minute" : 15
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 10,
+      "minute" : 9
+    },
+    "nameShip" : "8BaPtaH9Dtht3AsMcUo",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 63976
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 23,
+      "minute" : 5
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 10,
+      "minute" : 10
+    },
+    "nameShip" : "Rqkar84W",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5027
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 11,
+      "minute" : 47
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 10,
+      "minute" : 15
+    },
+    "nameShip" : "xu7wvrYhc",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 61070
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 51
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 11,
+      "minute" : 4
+    },
+    "nameShip" : "tvdhOyQiRGk2nB8OFlph",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 55664
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 13,
+      "minute" : 50
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 13,
+      "minute" : 51
+    },
+    "nameShip" : "5IlWDNO4bo",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4158
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 18
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 14,
+      "minute" : 17
+    },
+    "nameShip" : "7RuL7ebvkUbgkNmUYuv",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5995
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 3,
+      "minute" : 55
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 15,
+      "minute" : 19
+    },
+    "nameShip" : "zu5TUg7pB",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 51060
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 8,
+      "minute" : 44
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 15,
+      "minute" : 42
+    },
+    "nameShip" : "uLtnww4xbf6vca",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3801
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 15,
+      "minute" : 21
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 15,
+      "minute" : 59
+    },
+    "nameShip" : "KbWFHP5dSKKVqpXlK",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4534
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 3,
+      "minute" : 34
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 17,
+      "minute" : 4
+    },
+    "nameShip" : "NrNvDEMiSKeQlrgD85X",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 58071
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 0,
+      "minute" : 47
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 17,
+      "minute" : 19
+    },
+    "nameShip" : "v7M7FUGZ",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 44352
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 1,
+      "minute" : 55
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 19,
+      "minute" : 23
+    },
+    "nameShip" : "8XpsmD30n77FsbIrYNFq",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 44613
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 21
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 5,
+      "hour" : 22,
+      "minute" : 50
+    },
+    "nameShip" : "GeDgNGPucS6PM3beqzUu",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 57111
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 15,
+      "minute" : 27
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 6,
+      "hour" : 2,
+      "minute" : 4
+    },
+    "nameShip" : "kIRCP98fMlMfkfw8y0Q",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 43633
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 0,
+      "minute" : 43
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 6,
+      "hour" : 3,
+      "minute" : 34
+    },
+    "nameShip" : "DXNN3rWjiqkNtAM",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2656
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 20,
+      "minute" : 16
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 6,
+      "hour" : 4,
+      "minute" : 38
+    },
+    "nameShip" : "2wGpRloNI30ZE",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 59449
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 3,
+      "minute" : 4
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 6,
+      "hour" : 8,
+      "minute" : 47
+    },
+    "nameShip" : "dMu2qo52iFNYA",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 69422
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 8
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 6,
+      "hour" : 8,
+      "minute" : 53
+    },
+    "nameShip" : "MVMzfiE3ZdK",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 60931
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 42
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 6,
+      "hour" : 9,
+      "minute" : 4
+    },
+    "nameShip" : "IhPQjTcKJdkwGCor4ubg",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 44396
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 1,
+      "minute" : 59
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 6,
+      "hour" : 10,
+      "minute" : 7
+    },
+    "nameShip" : "OA18HwJBqd",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 48162
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 8,
+      "minute" : 16
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 6,
+      "hour" : 15,
+      "minute" : 20
+    },
+    "nameShip" : "XuZIw3pN5",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4051
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 31
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 6,
+      "hour" : 17,
+      "minute" : 31
+    },
+    "nameShip" : "XmOS2ax9CkrEKHSe",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 62785
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 45
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 6,
+      "hour" : 19,
+      "minute" : 20
+    },
+    "nameShip" : "xVRz3kQiklYNbOxRN",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 56244
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 21,
+      "minute" : 44
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 6,
+      "hour" : 21,
+      "minute" : 47
+    },
+    "nameShip" : "roWPYYmYf",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 57157
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 23,
+      "minute" : 15
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 6,
+      "hour" : 22,
+      "minute" : 29
+    },
+    "nameShip" : "356Gm7ZBUo",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5813
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 0,
+      "minute" : 53
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 6,
+      "hour" : 23,
+      "minute" : 4
+    },
+    "nameShip" : "qmQFWtwkPgATULAO",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 54964
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 19,
+      "minute" : 36
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 7,
+      "hour" : 1,
+      "minute" : 51
+    },
+    "nameShip" : "MiAfz6lhoTNdF",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 45855
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 4,
+      "minute" : 25
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 7,
+      "hour" : 5,
+      "minute" : 22
+    },
+    "nameShip" : "laGre5nQhi6",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 58295
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 1,
+      "minute" : 9
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 7,
+      "hour" : 7,
+      "minute" : 26
+    },
+    "nameShip" : "cV3MtoVo",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 52037
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 9,
+      "minute" : 49
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 7,
+      "hour" : 8,
+      "minute" : 15
+    },
+    "nameShip" : "v6LoLCxnGs3d",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 58323
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 1,
+      "minute" : 12
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 7,
+      "hour" : 8,
+      "minute" : 44
+    },
+    "nameShip" : "nkyWJeoUnca41rfFL",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 60619
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 21
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 7,
+      "hour" : 8,
+      "minute" : 50
+    },
+    "nameShip" : "CqxlIoIl66E9JTcAr",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 62679
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 38
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 7,
+      "hour" : 11,
+      "minute" : 15
+    },
+    "nameShip" : "M63SHZhvuUZpyoRbnA",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 50129
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 7,
+      "minute" : 41
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 7,
+      "hour" : 11,
+      "minute" : 16
+    },
+    "nameShip" : "ws0b38Kqy",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 61052
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 50
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 7,
+      "hour" : 14,
+      "minute" : 37
+    },
+    "nameShip" : "SXWusJbqSSJ7",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 44252
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 1,
+      "minute" : 45
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 7,
+      "hour" : 15,
+      "minute" : 20
+    },
+    "nameShip" : "A9XIxGqw6f1O2Sg7vNx",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 54739
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 12,
+      "minute" : 49
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 7,
+      "hour" : 15,
+      "minute" : 25
+    },
+    "nameShip" : "WZTfaXBbHn3LuOnFuw",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 58889
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 17,
+      "minute" : 25
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 7,
+      "hour" : 19,
+      "minute" : 7
+    },
+    "nameShip" : "Mww1zTJEfxhyvg",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 63878
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 22,
+      "minute" : 58
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 7,
+      "hour" : 21,
+      "minute" : 51
+    },
+    "nameShip" : "YjzUvm9aSmxfNfb",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 50671
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 12,
+      "minute" : 27
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 0,
+      "minute" : 2
+    },
+    "nameShip" : "X0FPlyB28B7lY",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 55567
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 13,
+      "minute" : 44
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 4,
+      "minute" : 5
+    },
+    "nameShip" : "PFpJaVf31GsJ",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 50705
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 12,
+      "minute" : 30
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 5,
+      "minute" : 54
+    },
+    "nameShip" : "30Cv4OHbXvmxQePU",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3985
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 25
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 11,
+      "minute" : 13
+    },
+    "nameShip" : "Qz6VEy6WZeAwXOq9",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 55272
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 20,
+      "minute" : 7
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 11,
+      "minute" : 46
+    },
+    "nameShip" : "fjKLKxnwk0",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 57001
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 23,
+      "minute" : 0
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 13,
+      "minute" : 9
+    },
+    "nameShip" : "pb3fX0EyqjUXzP",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2981
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 1,
+      "minute" : 41
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 14,
+      "minute" : 53
+    },
+    "nameShip" : "3fDDZwj4QH84cqHwpgQ",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4532
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 3,
+      "minute" : 32
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 14,
+      "minute" : 56
+    },
+    "nameShip" : "OoHEZ0jBjAvEIlyasV",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 41831
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 43
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 16,
+      "minute" : 39
+    },
+    "nameShip" : "CPuNYhRcMfl8VI",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2103
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 11,
+      "minute" : 3
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 17,
+      "minute" : 10
+    },
+    "nameShip" : "GLDnnJYHu",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 61674
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 31
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 17,
+      "minute" : 51
+    },
+    "nameShip" : "S9ApsdiHcMIUF",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 57689
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 0,
+      "minute" : 8
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 18,
+      "minute" : 32
+    },
+    "nameShip" : "jPqnrI1ljMlW",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 61926
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 48
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 20,
+      "minute" : 11
+    },
+    "nameShip" : "Lgkk75kIZ",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 69036
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 4,
+      "minute" : 42
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 21,
+      "minute" : 18
+    },
+    "nameShip" : "VC5qgFMKodTZ0",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 50612
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 8,
+      "minute" : 14
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 21,
+      "minute" : 20
+    },
+    "nameShip" : "ehSjfbmrsG49",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5666
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 22,
+      "minute" : 26
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 8,
+      "hour" : 23,
+      "minute" : 36
+    },
+    "nameShip" : "RNQEj8zRBqoM",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5252
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 15,
+      "minute" : 32
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 9,
+      "hour" : 1,
+      "minute" : 50
+    },
+    "nameShip" : "LOaJ15m9hhGHkE",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 40977
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 17
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 9,
+      "hour" : 2,
+      "minute" : 23
+    },
+    "nameShip" : "8QThb4BPsbVsr2j92dP",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 57410
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 23,
+      "minute" : 41
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 9,
+      "hour" : 2,
+      "minute" : 39
+    },
+    "nameShip" : "8WoJexzgQtOcuhcLr",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4916
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 9,
+      "minute" : 56
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 9,
+      "hour" : 2,
+      "minute" : 48
+    },
+    "nameShip" : "KnyewnxsX9GO",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 57479
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 15,
+      "minute" : 51
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 9,
+      "hour" : 3,
+      "minute" : 18
+    },
+    "nameShip" : "9H9sfvld",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 53408
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 20
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 9,
+      "hour" : 7,
+      "minute" : 33
+    },
+    "nameShip" : "xjMKqpkLWHE",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 62333
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 15
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 9,
+      "hour" : 8,
+      "minute" : 30
+    },
+    "nameShip" : "X5sI29GtFPkZT8stwM",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 60510
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 14
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 9,
+      "hour" : 8,
+      "minute" : 40
+    },
+    "nameShip" : "fo9JRfwne8Q3xKtE",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 51941
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 14,
+      "minute" : 34
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 9,
+      "hour" : 8,
+      "minute" : 46
+    },
+    "nameShip" : "8MwLPVMajr4VM1cCC",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 61235
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 2
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 9,
+      "hour" : 9,
+      "minute" : 1
+    },
+    "nameShip" : "ttTuqJhbroo8BC",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 67184
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 38
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 9,
+      "hour" : 11,
+      "minute" : 0
+    },
+    "nameShip" : "rdrRynWMnXtOe9B",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 60194
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 52
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 9,
+      "hour" : 12,
+      "minute" : 45
+    },
+    "nameShip" : "0NZW9fufOGG1",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 65655
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 0,
+      "minute" : 57
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 9,
+      "hour" : 18,
+      "minute" : 22
+    },
+    "nameShip" : "ectlTIEzaQYbN77",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4999
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 11,
+      "minute" : 19
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 9,
+      "hour" : 18,
+      "minute" : 46
+    },
+    "nameShip" : "pnm3zCFC",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 65675
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 0,
+      "minute" : 58
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 9,
+      "hour" : 22,
+      "minute" : 35
+    },
+    "nameShip" : "ID8gIXBErxwjL",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4155
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 15
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 10,
+      "hour" : 0,
+      "minute" : 47
+    },
+    "nameShip" : "QLS46AOXHXkZ6Zmlm",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5252
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 15,
+      "minute" : 32
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 10,
+      "hour" : 1,
+      "minute" : 56
+    },
+    "nameShip" : "MtwamMzgXC4x9",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 46640
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 44
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 10,
+      "hour" : 2,
+      "minute" : 18
+    },
+    "nameShip" : "Jopv04lXBMb",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 62217
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 7
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 10,
+      "hour" : 3,
+      "minute" : 49
+    },
+    "nameShip" : "LKIctHv5X",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 67717
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 3,
+      "minute" : 14
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 10,
+      "hour" : 3,
+      "minute" : 56
+    },
+    "nameShip" : "wRR2CbLhqmU4LwjJ",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 68560
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 4,
+      "minute" : 10
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 10,
+      "hour" : 6,
+      "minute" : 5
+    },
+    "nameShip" : "n9N3M1vkgQU7Cp6PgxM",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5558
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 20,
+      "minute" : 38
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 10,
+      "hour" : 10,
+      "minute" : 4
+    },
+    "nameShip" : "R89KsVuKyEBoqkXExUp0",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4664
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 44
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 10,
+      "hour" : 10,
+      "minute" : 53
+    },
+    "nameShip" : "JFMNVtFKSOU03xgWlY5P",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5025
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 11,
+      "minute" : 45
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 10,
+      "hour" : 12,
+      "minute" : 52
+    },
+    "nameShip" : "7lnz4MpuF",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5877
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 1,
+      "minute" : 57
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 10,
+      "hour" : 16,
+      "minute" : 2
+    },
+    "nameShip" : "upoxMod2cO",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 42477
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 22,
+      "minute" : 47
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 10,
+      "hour" : 19,
+      "minute" : 4
+    },
+    "nameShip" : "yDydmmAts8jTH2h",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4948
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 10,
+      "minute" : 28
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 10,
+      "hour" : 20,
+      "minute" : 4
+    },
+    "nameShip" : "miHkn5RtqYYOq9F",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 40022
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 42
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 10,
+      "hour" : 20,
+      "minute" : 7
+    },
+    "nameShip" : "eEYg4BgJ",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 56087
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 14,
+      "minute" : 19
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 10,
+      "hour" : 20,
+      "minute" : 16
+    },
+    "nameShip" : "7QMGhHTej",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2609
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 19,
+      "minute" : 29
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 10,
+      "hour" : 20,
+      "minute" : 55
+    },
+    "nameShip" : "HpWin6Yf",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 40767
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 56
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 11,
+      "hour" : 3,
+      "minute" : 38
+    },
+    "nameShip" : "rS5kL7Zlj",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 61347
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 9
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 11,
+      "hour" : 4,
+      "minute" : 21
+    },
+    "nameShip" : "zv7K8Ejwqo5VQqdDcwy",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 41045
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 24
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 11,
+      "hour" : 4,
+      "minute" : 25
+    },
+    "nameShip" : "8a9PoFPQjmoG8W5lBmE",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3035
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 2,
+      "minute" : 35
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 11,
+      "hour" : 5,
+      "minute" : 31
+    },
+    "nameShip" : "KsFb1ISVst4mZqV4D",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 66694
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 6
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 11,
+      "hour" : 6,
+      "minute" : 6
+    },
+    "nameShip" : "eSzmp7OFKB",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5434
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 18,
+      "minute" : 34
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 11,
+      "hour" : 7,
+      "minute" : 10
+    },
+    "nameShip" : "8my5gXWEzUbyxOAZ",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 64829
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 0,
+      "minute" : 1
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 11,
+      "hour" : 10,
+      "minute" : 4
+    },
+    "nameShip" : "nqK0I8jmnWd",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 43153
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 23,
+      "minute" : 55
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 11,
+      "hour" : 11,
+      "minute" : 9
+    },
+    "nameShip" : "N9kIOe8B",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4541
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 3,
+      "minute" : 41
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 11,
+      "hour" : 11,
+      "minute" : 14
+    },
+    "nameShip" : "1POkwVXvUFZWtXF",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 67832
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 3,
+      "minute" : 22
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 11,
+      "hour" : 12,
+      "minute" : 18
+    },
+    "nameShip" : "ZU420GhFdlTd4SvssHI8",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 67889
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 3,
+      "minute" : 25
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 11,
+      "hour" : 14,
+      "minute" : 46
+    },
+    "nameShip" : "M8Hs5eKcTePYlWFPO",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3956
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 17,
+      "minute" : 56
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 11,
+      "hour" : 18,
+      "minute" : 14
+    },
+    "nameShip" : "8s7DOPxnwv93Vo",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5936
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 2,
+      "minute" : 56
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 11,
+      "hour" : 23,
+      "minute" : 14
+    },
+    "nameShip" : "nZWwTj6GRC",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2630
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 19,
+      "minute" : 50
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 11,
+      "hour" : 23,
+      "minute" : 28
+    },
+    "nameShip" : "0pQ5KMSsxX",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 46754
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 55
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 11,
+      "hour" : 23,
+      "minute" : 54
+    },
+    "nameShip" : "AqLpYKyHEBCk",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5627
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 21,
+      "minute" : 47
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 12,
+      "hour" : 1,
+      "minute" : 5
+    },
+    "nameShip" : "QDUHwvZRm1vQR2NL",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 54695
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 19,
+      "minute" : 9
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 12,
+      "hour" : 1,
+      "minute" : 27
+    },
+    "nameShip" : "DDBRqPswqlqC1jD2",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 46873
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 6,
+      "minute" : 7
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 12,
+      "hour" : 1,
+      "minute" : 45
+    },
+    "nameShip" : "uaZKedCXJWASAtA956PG",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4873
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 9,
+      "minute" : 13
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 12,
+      "hour" : 3,
+      "minute" : 46
+    },
+    "nameShip" : "iuW3fm1gPzRI",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 65134
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 0,
+      "minute" : 22
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 12,
+      "hour" : 4,
+      "minute" : 8
+    },
+    "nameShip" : "kkcPPRM5Vwd",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 46662
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 46
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 12,
+      "hour" : 4,
+      "minute" : 17
+    },
+    "nameShip" : "sCrxomeLTN6BFpVOAB9",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 56160
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 21,
+      "minute" : 36
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 12,
+      "hour" : 4,
+      "minute" : 30
+    },
+    "nameShip" : "CUuBbfyMzLIuFUv90",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3501
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 21
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 12,
+      "hour" : 5,
+      "minute" : 12
+    },
+    "nameShip" : "CDtLE6Zv8",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 54424
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 12,
+      "minute" : 28
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 12,
+      "hour" : 7,
+      "minute" : 59
+    },
+    "nameShip" : "LTnLIqL1p",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 54745
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 12,
+      "minute" : 49
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 12,
+      "hour" : 8,
+      "minute" : 5
+    },
+    "nameShip" : "lKDVXOPURTJexhRoEHy",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2269
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 13,
+      "minute" : 49
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 12,
+      "hour" : 9,
+      "minute" : 14
+    },
+    "nameShip" : "5g2CkmPRTyTW4ndxdu",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 50340
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 11,
+      "minute" : 54
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 12,
+      "hour" : 11,
+      "minute" : 25
+    },
+    "nameShip" : "VJnf1GS5jcFpOx1JGbQ",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3857
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 16,
+      "minute" : 17
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 12,
+      "hour" : 13,
+      "minute" : 42
+    },
+    "nameShip" : "uKMGjXDA",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 47500
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 7,
+      "minute" : 10
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 12,
+      "hour" : 13,
+      "minute" : 57
+    },
+    "nameShip" : "dr8t5e61qrzP",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 40557
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 35
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 12,
+      "hour" : 14,
+      "minute" : 14
+    },
+    "nameShip" : "Nhy5s3YkyqsCfz05h1n",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 46942
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 6,
+      "minute" : 14
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 0,
+      "minute" : 2
+    },
+    "nameShip" : "E0Sxq8jEwuFhs",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 44435
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 3
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 3,
+      "minute" : 34
+    },
+    "nameShip" : "m6eRU5D0Dj",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 43463
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 0,
+      "minute" : 26
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 3,
+      "minute" : 50
+    },
+    "nameShip" : "IxWLjsqe1O0q",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 52474
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 15,
+      "minute" : 27
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 4,
+      "minute" : 24
+    },
+    "nameShip" : "LJ7aoFwo02boNQoCby",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5856
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 1,
+      "minute" : 36
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 5,
+      "minute" : 27
+    },
+    "nameShip" : "8N5Us5EvQuaC5utRzvv2",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2721
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 21,
+      "minute" : 21
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 5,
+      "minute" : 45
+    },
+    "nameShip" : "L2M9amcqckcvPdTu",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 57030
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 23,
+      "minute" : 3
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 11,
+      "minute" : 19
+    },
+    "nameShip" : "ilHyEH3ilNSOd",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 47173
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 6,
+      "minute" : 37
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 12,
+      "minute" : 33
+    },
+    "nameShip" : "CuvW45rYS2jnFKd",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2968
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 1,
+      "minute" : 28
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 12,
+      "minute" : 37
+    },
+    "nameShip" : "8i3slQ2wWwep2yaI",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2881
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 0,
+      "minute" : 1
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 15,
+      "minute" : 13
+    },
+    "nameShip" : "sFGwtDwdVr7D",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 61823
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 41
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 15,
+      "minute" : 43
+    },
+    "nameShip" : "LVFBoQScXtdP1dUCUtxI",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 50179
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 7,
+      "minute" : 45
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 18,
+      "minute" : 40
+    },
+    "nameShip" : "QkbJDukTrv",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 52491
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 19
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 19,
+      "minute" : 16
+    },
+    "nameShip" : "qRrY5W81s",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 48163
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 8,
+      "minute" : 16
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 19,
+      "minute" : 53
+    },
+    "nameShip" : "9pcEuSyjmxql16Qhcf",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 69056
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 4,
+      "minute" : 43
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 22,
+      "minute" : 29
+    },
+    "nameShip" : "9x7K66mCbj",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 53332
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 15
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 23,
+      "minute" : 0
+    },
+    "nameShip" : "ZYpOQviUu3kzASK",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5619
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 21,
+      "minute" : 39
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 13,
+      "hour" : 23,
+      "minute" : 21
+    },
+    "nameShip" : "ON85O0PRH3qgNAIfb",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 56468
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 22,
+      "minute" : 6
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 14,
+      "hour" : 0,
+      "minute" : 23
+    },
+    "nameShip" : "6uaChSX1jzNoIK2TK",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 55359
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 20,
+      "minute" : 15
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 14,
+      "hour" : 1,
+      "minute" : 43
+    },
+    "nameShip" : "ckhkAWKc",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 65491
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 0,
+      "minute" : 46
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 14,
+      "hour" : 2,
+      "minute" : 50
+    },
+    "nameShip" : "YTlq26luOSQhGbYF7Nc",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3815
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 15,
+      "minute" : 35
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 14,
+      "hour" : 6,
+      "minute" : 23
+    },
+    "nameShip" : "tl8JJaefyHC3",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 54431
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 18,
+      "minute" : 43
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 14,
+      "hour" : 7,
+      "minute" : 37
+    },
+    "nameShip" : "Wiem3LZaTK5ZJ",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 53870
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 51
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 14,
+      "hour" : 11,
+      "minute" : 29
+    },
+    "nameShip" : "rWKUQC44Jt",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 62529
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 28
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 14,
+      "hour" : 11,
+      "minute" : 46
+    },
+    "nameShip" : "fEQlH4idh32uOFT1E",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 69509
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 13
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 14,
+      "hour" : 13,
+      "minute" : 33
+    },
+    "nameShip" : "czuu94ioDII",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 60064
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 44
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 14,
+      "hour" : 16,
+      "minute" : 23
+    },
+    "nameShip" : "nSyrly3l1tmfBzALOrH",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5119
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 13,
+      "minute" : 19
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 14,
+      "hour" : 17,
+      "minute" : 30
+    },
+    "nameShip" : "HJpDDXKV",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 56016
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 14,
+      "minute" : 14
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 14,
+      "hour" : 18,
+      "minute" : 7
+    },
+    "nameShip" : "yp5gg6n5RfIjvavOI",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4601
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 4,
+      "minute" : 41
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 14,
+      "hour" : 21,
+      "minute" : 0
+    },
+    "nameShip" : "8kfqwbG8LlSLIq6KIXu",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5304
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 16,
+      "minute" : 24
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 14,
+      "hour" : 21,
+      "minute" : 6
+    },
+    "nameShip" : "4sKTvH4bMt2MdCqDX3ry",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3401
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 8,
+      "minute" : 41
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 14,
+      "hour" : 22,
+      "minute" : 15
+    },
+    "nameShip" : "DLSk74IePxX",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 56481
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 22,
+      "minute" : 8
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 14,
+      "hour" : 23,
+      "minute" : 17
+    },
+    "nameShip" : "mmdruAFvo0h7WAhaK",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 68047
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 3,
+      "minute" : 36
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 15,
+      "hour" : 2,
+      "minute" : 13
+    },
+    "nameShip" : "721OMMhgIwykkHlUQxs",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4479
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 39
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 15,
+      "hour" : 2,
+      "minute" : 55
+    },
+    "nameShip" : "vZUMfqfc",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 55758
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 13,
+      "minute" : 57
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 15,
+      "hour" : 3,
+      "minute" : 25
+    },
+    "nameShip" : "IVV8r5pzpxM31J7Hjv",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 42158
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 22,
+      "minute" : 15
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 15,
+      "hour" : 4,
+      "minute" : 11
+    },
+    "nameShip" : "3ukCilYMG",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 52967
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 51
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 15,
+      "hour" : 5,
+      "minute" : 33
+    },
+    "nameShip" : "GAiggtoZab1lybq",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 53257
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 10
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 15,
+      "hour" : 6,
+      "minute" : 21
+    },
+    "nameShip" : "ZXlCFJyLBtqNr",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 52112
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 14,
+      "minute" : 51
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 15,
+      "hour" : 6,
+      "minute" : 33
+    },
+    "nameShip" : "OKN6g9vTrGMsFjMbls",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 50677
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 12,
+      "minute" : 27
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 15,
+      "hour" : 7,
+      "minute" : 25
+    },
+    "nameShip" : "7FzOcaLfvlHfGYLUBF",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 44864
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 46
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 15,
+      "hour" : 8,
+      "minute" : 20
+    },
+    "nameShip" : "lP4oHlQyZpFM37ywNmJd",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 46384
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 18
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 15,
+      "hour" : 8,
+      "minute" : 53
+    },
+    "nameShip" : "BaUxpNN1JZ",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 53214
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 16,
+      "minute" : 41
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 15,
+      "hour" : 14,
+      "minute" : 1
+    },
+    "nameShip" : "Yw0hgPWziEvluHR",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 43543
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 0,
+      "minute" : 34
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 15,
+      "hour" : 14,
+      "minute" : 2
+    },
+    "nameShip" : "BsxhhUuXJ",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 58813
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 17,
+      "minute" : 20
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 15,
+      "hour" : 20,
+      "minute" : 57
+    },
+    "nameShip" : "EFJktaf5JS8HPgF",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 57378
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 15,
+      "minute" : 45
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 15,
+      "hour" : 20,
+      "minute" : 59
+    },
+    "nameShip" : "CPno9gfjkXmboNeLn",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 55982
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 14,
+      "minute" : 12
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 15,
+      "hour" : 21,
+      "minute" : 44
+    },
+    "nameShip" : "eDxDJiKvOG2H",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 58856
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 2,
+      "minute" : 5
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 16,
+      "hour" : 5,
+      "minute" : 10
+    },
+    "nameShip" : "AxKEfuOTK14",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5893
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 2,
+      "minute" : 13
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 16,
+      "hour" : 5,
+      "minute" : 33
+    },
+    "nameShip" : "zkUd868N",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4410
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 1,
+      "minute" : 30
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 16,
+      "hour" : 5,
+      "minute" : 46
+    },
+    "nameShip" : "WmwJuZ1mWinwU",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 53411
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 20
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 16,
+      "hour" : 6,
+      "minute" : 42
+    },
+    "nameShip" : "rjoS8kYe9pRsLo",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 58085
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 16,
+      "minute" : 32
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 16,
+      "hour" : 6,
+      "minute" : 56
+    },
+    "nameShip" : "8HQPVDzpCuVgD",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4338
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 0,
+      "minute" : 18
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 16,
+      "hour" : 8,
+      "minute" : 49
+    },
+    "nameShip" : "aODOYWYZPhPagg",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4985
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 11,
+      "minute" : 5
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 16,
+      "hour" : 12,
+      "minute" : 23
+    },
+    "nameShip" : "oXYZUEAo",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5260
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 15,
+      "minute" : 40
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 16,
+      "hour" : 14,
+      "minute" : 36
+    },
+    "nameShip" : "i7M3jMLf6wMF",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5229
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 15,
+      "minute" : 9
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 16,
+      "hour" : 15,
+      "minute" : 10
+    },
+    "nameShip" : "j3spuTTVUCcMBSvP9",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 52412
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 14
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 16,
+      "hour" : 15,
+      "minute" : 38
+    },
+    "nameShip" : "V7qmZBEeoaWOgqMW2LSg",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 59875
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 31
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 16,
+      "hour" : 16,
+      "minute" : 26
+    },
+    "nameShip" : "IWr8eqv6XtxelzFQgW",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 52882
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 16,
+      "minute" : 8
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 16,
+      "hour" : 21,
+      "minute" : 10
+    },
+    "nameShip" : "wUQOxPMPCJ",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 43918
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 1,
+      "minute" : 11
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 16,
+      "hour" : 21,
+      "minute" : 55
+    },
+    "nameShip" : "Weqv7NSTHtoldMJJsx",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4733
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 6,
+      "minute" : 53
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 16,
+      "hour" : 22,
+      "minute" : 15
+    },
+    "nameShip" : "cWPvBVYpDWMP5liJFy",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 52352
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 15,
+      "minute" : 15
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 2,
+      "minute" : 37
+    },
+    "nameShip" : "ajOmAaMnB2Kt5kf",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 54738
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 12,
+      "minute" : 49
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 4,
+      "minute" : 26
+    },
+    "nameShip" : "OjT4lTKoibGJ",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 52777
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 38
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 4,
+      "minute" : 41
+    },
+    "nameShip" : "q55jfXEuAJTC4J0c",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 54945
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 13,
+      "minute" : 3
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 4,
+      "minute" : 50
+    },
+    "nameShip" : "pPs3ZRtdfwoS",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 53362
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 17
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 6,
+      "minute" : 37
+    },
+    "nameShip" : "IM76ANl5",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 53442
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 17,
+      "minute" : 4
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 6,
+      "minute" : 52
+    },
+    "nameShip" : "gD4FAIKRPP6c",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 52906
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 16,
+      "minute" : 10
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 7,
+      "minute" : 33
+    },
+    "nameShip" : "lvhTSrxtSXE2RG3y4",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 40690
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 49
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 8,
+      "minute" : 15
+    },
+    "nameShip" : "pw5TfuCOs4",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 44673
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 27
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 9,
+      "minute" : 37
+    },
+    "nameShip" : "WytZ9QsKV9zvsV",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 61002
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 46
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 9,
+      "minute" : 50
+    },
+    "nameShip" : "U2IU8n8QPeC",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 60598
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 19
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 11,
+      "minute" : 23
+    },
+    "nameShip" : "e7PUFAsqlCXS6YVWeB",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4718
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 6,
+      "minute" : 38
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 11,
+      "minute" : 52
+    },
+    "nameShip" : "2bEM1Sm8OhO2W9ol9",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3139
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 4,
+      "minute" : 19
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 12,
+      "minute" : 7
+    },
+    "nameShip" : "mGPAjHYQ93hXgt3aT",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 60270
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 58
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 14,
+      "minute" : 55
+    },
+    "nameShip" : "WG0AovCpT9hzEUkoGDKb",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 44698
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 29
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 16,
+      "minute" : 52
+    },
+    "nameShip" : "vxCVVsJWzhe8jFh",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 46558
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 35
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 17,
+      "minute" : 14
+    },
+    "nameShip" : "bqs9llKr9ojCUKXV5",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 41570
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 17
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 19,
+      "minute" : 44
+    },
+    "nameShip" : "KajdZzgFCm3AAWab",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 68885
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 4,
+      "minute" : 32
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 21,
+      "minute" : 2
+    },
+    "nameShip" : "B87ZhLkDIaELZaGAONH",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 68298
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 3,
+      "minute" : 53
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 21,
+      "minute" : 7
+    },
+    "nameShip" : "HZ1ef7dM",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2722
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 21,
+      "minute" : 22
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 21,
+      "minute" : 53
+    },
+    "nameShip" : "nrRilT8254m",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 69525
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 15
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 22,
+      "minute" : 29
+    },
+    "nameShip" : "IuYWMNeVNsALMecBS",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 51522
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 13,
+      "minute" : 52
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 23,
+      "minute" : 34
+    },
+    "nameShip" : "KXkadFas1",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 54728
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 19,
+      "minute" : 12
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 17,
+      "hour" : 23,
+      "minute" : 42
+    },
+    "nameShip" : "N3oPpOgy",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3648
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 12,
+      "minute" : 48
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 4,
+      "minute" : 14
+    },
+    "nameShip" : "PX0S0a4P0TnlROl",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 43672
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 0,
+      "minute" : 47
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 4,
+      "minute" : 56
+    },
+    "nameShip" : "rLo6farP1CoLGflTzpqo",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4241
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 22,
+      "minute" : 41
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 5,
+      "minute" : 11
+    },
+    "nameShip" : "htlT5q293",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3404
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 8,
+      "minute" : 44
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 5,
+      "minute" : 24
+    },
+    "nameShip" : "pMxiz40kvjHO",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 51859
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 14,
+      "minute" : 25
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 6,
+      "minute" : 0
+    },
+    "nameShip" : "jPHH0Bg7AG",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 55844
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 14,
+      "minute" : 2
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 6,
+      "minute" : 14
+    },
+    "nameShip" : "Q33PWu6LT0",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 51966
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 9,
+      "minute" : 44
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 8,
+      "minute" : 17
+    },
+    "nameShip" : "gejGv4Hs",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 59565
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 3,
+      "minute" : 16
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 11,
+      "minute" : 6
+    },
+    "nameShip" : "CgF345JrU",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 55794
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 13,
+      "minute" : 59
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 11,
+      "minute" : 37
+    },
+    "nameShip" : "rG48c9WudDAnDY9riDmn",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 55596
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 20,
+      "minute" : 39
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 16,
+      "minute" : 54
+    },
+    "nameShip" : "4PFAeetQlYi1eKkbLe",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 55908
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 21,
+      "minute" : 10
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 17,
+      "minute" : 48
+    },
+    "nameShip" : "q7PQebsgN7iJiZG1QSpW",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 56931
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 22,
+      "minute" : 53
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 18,
+      "minute" : 57
+    },
+    "nameShip" : "brW8X3oe7KZvOUhET",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3055
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 2,
+      "minute" : 55
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 19,
+      "minute" : 7
+    },
+    "nameShip" : "P5sVQRKh",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2649
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 20,
+      "minute" : 9
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 19,
+      "minute" : 23
+    },
+    "nameShip" : "5BsLnira08RWlk7qL7",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 54646
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 19,
+      "minute" : 4
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 21,
+      "minute" : 52
+    },
+    "nameShip" : "jLoGf8f5ohMrj",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 69682
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 25
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 22,
+      "minute" : 5
+    },
+    "nameShip" : "DXDB9uQB",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 57806
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 16,
+      "minute" : 13
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 22,
+      "minute" : 42
+    },
+    "nameShip" : "FBjsCA7gdyd",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 41336
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 53
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 18,
+      "hour" : 22,
+      "minute" : 53
+    },
+    "nameShip" : "Z8nD9H54hp94yJw",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 48576
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 8,
+      "minute" : 57
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 0,
+      "minute" : 0
+    },
+    "nameShip" : "GVn7dmT1J6zkf7RWz9Mr",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 50156
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 11,
+      "minute" : 35
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 0,
+      "minute" : 12
+    },
+    "nameShip" : "YCBSQBIDeEsziHH",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3239
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 5,
+      "minute" : 59
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 1,
+      "minute" : 11
+    },
+    "nameShip" : "axL8ZgydoU",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 59512
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 3,
+      "minute" : 11
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 1,
+      "minute" : 45
+    },
+    "nameShip" : "kMYUJJnAC6F4Ok5",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 63839
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 22,
+      "minute" : 55
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 3,
+      "minute" : 11
+    },
+    "nameShip" : "r0F6LRAwHr5CEgZZbI",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 48205
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 8,
+      "minute" : 20
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 5,
+      "minute" : 29
+    },
+    "nameShip" : "rkf1rjW35",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 43984
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 1,
+      "minute" : 18
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 10,
+      "minute" : 21
+    },
+    "nameShip" : "Qhu684TAfn9z2T92pmW",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2656
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 20,
+      "minute" : 16
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 11,
+      "minute" : 27
+    },
+    "nameShip" : "hknQUEgVcwoLLPO0mLN4",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 50722
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 8,
+      "minute" : 21
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 13,
+      "minute" : 4
+    },
+    "nameShip" : "a0qeNfhrjTIfG3t4sw",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 56688
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 22,
+      "minute" : 28
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 15,
+      "minute" : 24
+    },
+    "nameShip" : "TpBer5yroi8",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 59518
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 7
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 17,
+      "minute" : 58
+    },
+    "nameShip" : "YCE2EFkwHxt",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 52822
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 41
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 18,
+      "minute" : 29
+    },
+    "nameShip" : "v50jRPBm",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5405
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 18,
+      "minute" : 5
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 19,
+      "minute" : 26
+    },
+    "nameShip" : "9LFpjleNufl4ouqntc",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3657
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 12,
+      "minute" : 57
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 20,
+      "minute" : 27
+    },
+    "nameShip" : "3MaSMpzurNa",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 40307
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 10
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 22,
+      "minute" : 3
+    },
+    "nameShip" : "qCrNb827",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 56724
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 15,
+      "minute" : 1
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 22,
+      "minute" : 44
+    },
+    "nameShip" : "0RSphTKxRBb2KoaT8Olm",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 40905
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 10
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 19,
+      "hour" : 22,
+      "minute" : 46
+    },
+    "nameShip" : "P5ToFKltsggnULydJfJP",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 54371
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 12,
+      "minute" : 24
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 0,
+      "minute" : 11
+    },
+    "nameShip" : "DHUz5WCk8lISL",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 57932
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 16,
+      "minute" : 22
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 0,
+      "minute" : 43
+    },
+    "nameShip" : "P9pBRuWhPFRLPcpsc",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 66802
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 13
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 5,
+      "minute" : 39
+    },
+    "nameShip" : "Tu56nnm4MH6p7Dqwb",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4179
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 39
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 8,
+      "minute" : 2
+    },
+    "nameShip" : "OqjJ8N3SGV7E",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 55408
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 20,
+      "minute" : 20
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 8,
+      "minute" : 31
+    },
+    "nameShip" : "fd1BSDXKg8zOBCJv",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 58853
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 17,
+      "minute" : 23
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 10,
+      "minute" : 52
+    },
+    "nameShip" : "AJSPwsdFG0",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4837
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 8,
+      "minute" : 37
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 11,
+      "minute" : 6
+    },
+    "nameShip" : "V7HiiCETgrJRtOD",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5828
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 1,
+      "minute" : 8
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 11,
+      "minute" : 9
+    },
+    "nameShip" : "VKCyJvICWVLZ",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3299
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 6,
+      "minute" : 59
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 11,
+      "minute" : 58
+    },
+    "nameShip" : "ETrwj9gSI0qXdY3p",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 55946
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 21,
+      "minute" : 14
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 12,
+      "minute" : 6
+    },
+    "nameShip" : "94TjP3flaZdVbi",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 50177
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 7,
+      "minute" : 45
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 12,
+      "minute" : 34
+    },
+    "nameShip" : "r5crJ8EYoKzY",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5541
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 20,
+      "minute" : 21
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 15,
+      "minute" : 8
+    },
+    "nameShip" : "5yua77QdsGzQSdE",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2039
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 9,
+      "minute" : 59
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 16,
+      "minute" : 5
+    },
+    "nameShip" : "kdtv2HGesO4C",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 53793
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 46
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 16,
+      "minute" : 23
+    },
+    "nameShip" : "HVdhcejIAkj",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4442
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 2
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 17,
+      "minute" : 25
+    },
+    "nameShip" : "izYpEDug5WP4r4pZHsRF",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 67237
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 42
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 17,
+      "minute" : 51
+    },
+    "nameShip" : "HDuknqNXeeOMCPE",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4945
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 10,
+      "minute" : 25
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 18,
+      "minute" : 11
+    },
+    "nameShip" : "8kGPcmJBD6",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3541
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 1
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 18,
+      "minute" : 39
+    },
+    "nameShip" : "DtLLT6QG",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2732
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 21,
+      "minute" : 32
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 20,
+      "hour" : 19,
+      "minute" : 52
+    },
+    "nameShip" : "jkvMMxHBqnhstf0nbxy",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5377
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 17,
+      "minute" : 37
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 4,
+      "minute" : 50
+    },
+    "nameShip" : "Ls6c6hTYG",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 48509
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 8,
+      "minute" : 50
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 6,
+      "minute" : 20
+    },
+    "nameShip" : "Xhpug43PdMbBvBjw",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5709
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 23,
+      "minute" : 9
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 7,
+      "minute" : 21
+    },
+    "nameShip" : "wLwCTRJxu19Ha8",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5136
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 13,
+      "minute" : 36
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 7,
+      "minute" : 32
+    },
+    "nameShip" : "4JCxzhrGRkHTb7A",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5189
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 14,
+      "minute" : 29
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 8,
+      "minute" : 25
+    },
+    "nameShip" : "ppasyHackRhYRJhE",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4174
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 34
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 9,
+      "minute" : 44
+    },
+    "nameShip" : "gazaknUNEBj",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5617
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 21,
+      "minute" : 37
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 12,
+      "minute" : 6
+    },
+    "nameShip" : "sVHMv92t",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5645
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 22,
+      "minute" : 5
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 12,
+      "minute" : 38
+    },
+    "nameShip" : "sjjkO64GbrM",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 55858
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 21,
+      "minute" : 5
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 13,
+      "minute" : 57
+    },
+    "nameShip" : "P5sLjxMdF",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5725
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 23,
+      "minute" : 25
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 15,
+      "minute" : 24
+    },
+    "nameShip" : "xoy2VunreCecPCe",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5687
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 22,
+      "minute" : 47
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 15,
+      "minute" : 53
+    },
+    "nameShip" : "V6tWr6uiiStE",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5343
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 17,
+      "minute" : 3
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 16,
+      "minute" : 19
+    },
+    "nameShip" : "LVFiinvgSTp9sOdz8",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2394
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 15,
+      "minute" : 54
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 17,
+      "minute" : 3
+    },
+    "nameShip" : "tpEcqVMGW3zvL",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3996
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 36
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 17,
+      "minute" : 13
+    },
+    "nameShip" : "EeHmdPSBwzxzDI",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 40825
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 2
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 18,
+      "minute" : 30
+    },
+    "nameShip" : "xkyRlspHrx",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2382
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 15,
+      "minute" : 42
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 19,
+      "minute" : 14
+    },
+    "nameShip" : "Fe5Bodp8vpru0aVvC8Bj",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3134
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 4,
+      "minute" : 14
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 19,
+      "minute" : 49
+    },
+    "nameShip" : "jF62EDXJWkq",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 59918
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 34
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 21,
+      "hour" : 20,
+      "minute" : 47
+    },
+    "nameShip" : "grjx33709B3o",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 54393
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 18,
+      "minute" : 39
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 0,
+      "minute" : 6
+    },
+    "nameShip" : "hS30ULxRJX6ygjqR",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4300
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 23,
+      "minute" : 40
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 0,
+      "minute" : 14
+    },
+    "nameShip" : "ko1tZz2hnyEbzak",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 45286
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 3,
+      "minute" : 28
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 0,
+      "minute" : 59
+    },
+    "nameShip" : "7jQEe6kjvD",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2414
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 16,
+      "minute" : 14
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 2,
+      "minute" : 31
+    },
+    "nameShip" : "1ra0BnjNktJm",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 53516
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 27
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 2,
+      "minute" : 54
+    },
+    "nameShip" : "xEhqh7iNM",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4835
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 8,
+      "minute" : 35
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 5,
+      "minute" : 26
+    },
+    "nameShip" : "21X0s1V51",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5985
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 3,
+      "minute" : 45
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 7,
+      "minute" : 2
+    },
+    "nameShip" : "5P08DHRBn0IhUb3iZyJ5",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 48671
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 9,
+      "minute" : 7
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 7,
+      "minute" : 32
+    },
+    "nameShip" : "dZqzohJJ8aOo",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 62791
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 46
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 7,
+      "minute" : 51
+    },
+    "nameShip" : "EMlKAlaOGWhvSoaI",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3534
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 54
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 14,
+      "minute" : 24
+    },
+    "nameShip" : "s4tWDlXFGxcPa",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2259
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 13,
+      "minute" : 39
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 17,
+      "minute" : 29
+    },
+    "nameShip" : "9wLiKCqsJsXndoPtQ9O8",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 41389
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 58
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 20,
+      "minute" : 39
+    },
+    "nameShip" : "FLGDaDM9OOo44tD53mz1",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 53377
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 18
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 20,
+      "minute" : 52
+    },
+    "nameShip" : "wOZeZzS8el93fd",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2825
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 23,
+      "minute" : 5
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 22,
+      "minute" : 34
+    },
+    "nameShip" : "vZl3Lb7xaZdQ",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 43671
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 0,
+      "minute" : 47
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 23,
+      "minute" : 15
+    },
+    "nameShip" : "mehnDyK4ijG2ISM",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 50332
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 7,
+      "minute" : 55
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 22,
+      "hour" : 23,
+      "minute" : 22
+    },
+    "nameShip" : "L4t7KHPOnik65hXx5Vht",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 61936
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 49
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 0,
+      "minute" : 36
+    },
+    "nameShip" : "p1Q3qTxPs",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 52927
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 48
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 2,
+      "minute" : 14
+    },
+    "nameShip" : "HgKEws7J",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4695
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 6,
+      "minute" : 15
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 2,
+      "minute" : 16
+    },
+    "nameShip" : "AF3yfMmwRSlOb3W",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 59969
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 37
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 3,
+      "minute" : 17
+    },
+    "nameShip" : "srTLazVBv6yEHWucLGk5",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5354
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 17,
+      "minute" : 14
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 3,
+      "minute" : 21
+    },
+    "nameShip" : "1EDm03RJ9diMd",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 48545
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 8,
+      "minute" : 54
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 3,
+      "minute" : 31
+    },
+    "nameShip" : "fMcdOMKrSaYpeXBN6P",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 56602
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 22,
+      "minute" : 20
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 4,
+      "minute" : 50
+    },
+    "nameShip" : "M13oRPilcwXGtsb1",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 45998
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 4,
+      "minute" : 39
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 5,
+      "minute" : 22
+    },
+    "nameShip" : "7tbWaFpvSpvAf",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 60233
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 55
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 6,
+      "minute" : 48
+    },
+    "nameShip" : "qT1EswQbBl",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 56027
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 14,
+      "minute" : 15
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 8,
+      "minute" : 45
+    },
+    "nameShip" : "8XDzCt1ywf",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 62406
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 20
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 10,
+      "minute" : 57
+    },
+    "nameShip" : "GeCm2NC5KACjK",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 47132
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 6,
+      "minute" : 33
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 11,
+      "minute" : 20
+    },
+    "nameShip" : "1uDwH9uATGHEoeHLh",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 69865
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 37
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 11,
+      "minute" : 21
+    },
+    "nameShip" : "HtD2b1AJW",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3478
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 9,
+      "minute" : 58
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 11,
+      "minute" : 33
+    },
+    "nameShip" : "uYbX5w0hHlhY6e",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 62686
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 39
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 13,
+      "minute" : 28
+    },
+    "nameShip" : "jewxK3TVl6Nwq4",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 56934
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 15,
+      "minute" : 15
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 14,
+      "minute" : 7
+    },
+    "nameShip" : "h6nbHKNdFWP5aRc9ze4B",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 45243
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 3,
+      "minute" : 24
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 16,
+      "minute" : 24
+    },
+    "nameShip" : "4L12IJ23Z",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2760
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 22,
+      "minute" : 0
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 17,
+      "minute" : 59
+    },
+    "nameShip" : "1pU2CyKXw9UTI8dQas8W",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 47432
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 7,
+      "minute" : 3
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 19,
+      "minute" : 27
+    },
+    "nameShip" : "kDZ9F49mqHcs",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5667
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 22,
+      "minute" : 27
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 23,
+      "hour" : 21,
+      "minute" : 11
+    },
+    "nameShip" : "p6f8NjJSlCZGEyIrS",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 57923
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 16,
+      "minute" : 21
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 24,
+      "hour" : 0,
+      "minute" : 7
+    },
+    "nameShip" : "x43N3FosyA2oNBC",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2112
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 11,
+      "minute" : 12
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 24,
+      "hour" : 5,
+      "minute" : 2
+    },
+    "nameShip" : "jKADiHC0rxemJHd",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 60397
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 6
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 24,
+      "hour" : 5,
+      "minute" : 14
+    },
+    "nameShip" : "CzIoOOVMxcA9V",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 44067
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 1,
+      "minute" : 26
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 24,
+      "hour" : 9,
+      "minute" : 12
+    },
+    "nameShip" : "TxiVxkO7TV",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5728
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 23,
+      "minute" : 28
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 24,
+      "hour" : 11,
+      "minute" : 46
+    },
+    "nameShip" : "nxBDzWpQ25y1aKK9t5",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3290
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 6,
+      "minute" : 50
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 24,
+      "hour" : 12,
+      "minute" : 14
+    },
+    "nameShip" : "MjOhtHDwcSnB9cBuG",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 48775
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 9,
+      "minute" : 17
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 24,
+      "hour" : 12,
+      "minute" : 43
+    },
+    "nameShip" : "JMNxbJqFdglc",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 54625
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 12,
+      "minute" : 41
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 24,
+      "hour" : 13,
+      "minute" : 55
+    },
+    "nameShip" : "XvVuZB2d6sQDibZGSyY",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 59948
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 3,
+      "minute" : 54
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 24,
+      "hour" : 18,
+      "minute" : 26
+    },
+    "nameShip" : "y5QXOhq30YLhQzmx",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 59240
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 17,
+      "minute" : 49
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 24,
+      "hour" : 19,
+      "minute" : 9
+    },
+    "nameShip" : "ELADmIaP4rK",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3577
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 37
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 24,
+      "hour" : 20,
+      "minute" : 46
+    },
+    "nameShip" : "awZBGR3PLYMPJr9p2",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 51044
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 8,
+      "minute" : 42
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 24,
+      "hour" : 21,
+      "minute" : 29
+    },
+    "nameShip" : "pEP6jkUIIoco1Qu",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5566
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 20,
+      "minute" : 46
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 24,
+      "hour" : 23,
+      "minute" : 34
+    },
+    "nameShip" : "bs2H5YGI",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 41609
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 20
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 3,
+      "minute" : 11
+    },
+    "nameShip" : "F3G0NGwSxJwdF7Or2L",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3018
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 2,
+      "minute" : 18
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 4,
+      "minute" : 12
+    },
+    "nameShip" : "xjKSsNcaCvUDYOvZ6ii0",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 47829
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 7,
+      "minute" : 42
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 4,
+      "minute" : 13
+    },
+    "nameShip" : "KBtSHzcS",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4802
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 8,
+      "minute" : 2
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 4,
+      "minute" : 27
+    },
+    "nameShip" : "WWu7MSgmYK",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 60861
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 37
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 4,
+      "minute" : 30
+    },
+    "nameShip" : "xzSVmq3RZl44aQ",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 66687
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 5
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 6,
+      "minute" : 22
+    },
+    "nameShip" : "flQzlrgzHkxB2",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4064
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 44
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 7,
+      "minute" : 37
+    },
+    "nameShip" : "4R34dMGQEGXHK5msb",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 60313
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 0
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 8,
+      "minute" : 14
+    },
+    "nameShip" : "z9AlbtaUFMgyl78M",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4121
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 41
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 9,
+      "minute" : 3
+    },
+    "nameShip" : "IMzyo6tbfQNpv",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 42241
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 22,
+      "minute" : 24
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 9,
+      "minute" : 37
+    },
+    "nameShip" : "bgcsasAu7OynDbgjY",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 61166
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 57
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 12,
+      "minute" : 46
+    },
+    "nameShip" : "Ahwo3B1bsefqAH4nQw",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 54851
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 12,
+      "minute" : 56
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 14,
+      "minute" : 36
+    },
+    "nameShip" : "n81iTblOwMoHDjr",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 63173
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 22,
+      "minute" : 11
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 14,
+      "minute" : 52
+    },
+    "nameShip" : "vSTgtpnzmTfj",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 51692
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 9,
+      "minute" : 26
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 15,
+      "minute" : 5
+    },
+    "nameShip" : "WYSd5sMZTAmb",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 63260
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 22,
+      "minute" : 17
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 17,
+      "minute" : 22
+    },
+    "nameShip" : "wiLoMEFJ8yyrwO",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 50850
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 12,
+      "minute" : 45
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 17,
+      "minute" : 54
+    },
+    "nameShip" : "ZEjdMDEFQajohyOXNBPQ",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2900
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 0,
+      "minute" : 20
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 18,
+      "minute" : 3
+    },
+    "nameShip" : "RvGQw5mH4JxCwe9U6G",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 58709
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 1,
+      "minute" : 50
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 18,
+      "minute" : 25
+    },
+    "nameShip" : "vzCs1bntEEkm1sy1b6",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 50211
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 7,
+      "minute" : 47
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 18,
+      "minute" : 53
+    },
+    "nameShip" : "7WCr2xh9",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 41622
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 22
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 20,
+      "minute" : 15
+    },
+    "nameShip" : "wn3xOtlAOSHLAMP",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2134
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 11,
+      "minute" : 34
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 21,
+      "minute" : 46
+    },
+    "nameShip" : "mRHzS3IDTxU187XjtA6z",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 55594
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 20,
+      "minute" : 39
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 25,
+      "hour" : 22,
+      "minute" : 42
+    },
+    "nameShip" : "eTJhgB5LZONIMAcUm",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 51370
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 9,
+      "minute" : 4
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 0,
+      "minute" : 36
+    },
+    "nameShip" : "OLmdmh6WJfBDbUfGK62",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 54083
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 12,
+      "minute" : 5
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 0,
+      "minute" : 37
+    },
+    "nameShip" : "lwoj1PFcAo",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5389
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 17,
+      "minute" : 49
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 0,
+      "minute" : 55
+    },
+    "nameShip" : "comtoldc5wNz",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 58440
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 1,
+      "minute" : 24
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 1,
+      "minute" : 55
+    },
+    "nameShip" : "ueQS3Wi7DiPp",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 65774
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 1,
+      "minute" : 4
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 4,
+      "minute" : 53
+    },
+    "nameShip" : "RC7iiNd1Cj5pBZaIDOve",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 68229
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 3,
+      "minute" : 48
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 5,
+      "minute" : 31
+    },
+    "nameShip" : "uDQWMz5z8gexZO",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 42108
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 22,
+      "minute" : 10
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 6,
+      "minute" : 6
+    },
+    "nameShip" : "jhyV47I022RZn",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 69880
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 5,
+      "minute" : 38
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 7,
+      "minute" : 48
+    },
+    "nameShip" : "SYHFO7r0dD6sccz",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 66792
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 12
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 9,
+      "minute" : 33
+    },
+    "nameShip" : "5zEx5vssdu",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 42027
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 22,
+      "minute" : 2
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 12,
+      "minute" : 33
+    },
+    "nameShip" : "MvXxKJjES",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2651
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 20,
+      "minute" : 11
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 12,
+      "minute" : 45
+    },
+    "nameShip" : "mCUp2oMtiHPZRmfohh",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4342
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 0,
+      "minute" : 22
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 13,
+      "minute" : 6
+    },
+    "nameShip" : "YeotmP1J2ajKMcXdzxd",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 51407
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 13,
+      "minute" : 40
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 16,
+      "minute" : 18
+    },
+    "nameShip" : "Vc69O0gI9xB8d1n7o3R",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3939
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 17,
+      "minute" : 39
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 16,
+      "minute" : 55
+    },
+    "nameShip" : "5aM1cFuLgy0S",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 44160
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 1,
+      "minute" : 36
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 18,
+      "minute" : 18
+    },
+    "nameShip" : "yDWaXBfyZELUfn",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 66036
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 1,
+      "minute" : 22
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 26,
+      "hour" : 20,
+      "minute" : 2
+    },
+    "nameShip" : "t9Aa7XSEE",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 59191
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 17,
+      "minute" : 46
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 0,
+      "minute" : 30
+    },
+    "nameShip" : "naMHhLKpqVDC3BF",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 48422
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 8,
+      "minute" : 42
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 1,
+      "minute" : 38
+    },
+    "nameShip" : "8Rk7hODtkjIpp",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3184
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 5,
+      "minute" : 4
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 1,
+      "minute" : 41
+    },
+    "nameShip" : "qdZph2rA9hsLphR",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4932
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 10,
+      "minute" : 12
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 2,
+      "minute" : 58
+    },
+    "nameShip" : "KFEGXvpHj3qJG1ku8",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5421
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 18,
+      "minute" : 21
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 6,
+      "minute" : 7
+    },
+    "nameShip" : "k3LJZLc2",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 40916
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 20,
+      "minute" : 11
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 6,
+      "minute" : 59
+    },
+    "nameShip" : "8zsd6x1mgxgU5mH",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 59297
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 2,
+      "minute" : 49
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 8,
+      "minute" : 30
+    },
+    "nameShip" : "0kubs6SlQLnzaiuO8",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3481
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 1
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 9,
+      "minute" : 20
+    },
+    "nameShip" : "9je7Lx84jZoGLA5y",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4480
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 40
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 15,
+      "minute" : 21
+    },
+    "nameShip" : "8UqsCT2Ud8IWGIdVS",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 40506
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 30
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 16,
+      "minute" : 6
+    },
+    "nameShip" : "yZH49xD1TnmWPJv1fZn",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 40197
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 18,
+      "minute" : 59
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 16,
+      "minute" : 19
+    },
+    "nameShip" : "ey462ytrjjEXrk",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3374
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 8,
+      "minute" : 14
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 16,
+      "minute" : 31
+    },
+    "nameShip" : "aPieBV8hlYSC",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2349
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 15,
+      "minute" : 9
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 17,
+      "minute" : 16
+    },
+    "nameShip" : "9TiPcEEIS2u",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 53625
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 35
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 19,
+      "minute" : 23
+    },
+    "nameShip" : "GFqw1D1H",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 53645
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 17,
+      "minute" : 24
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 19,
+      "minute" : 37
+    },
+    "nameShip" : "z2990YaTYVaeAlhka",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 50807
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 8,
+      "minute" : 27
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 21,
+      "minute" : 21
+    },
+    "nameShip" : "20rrSpYeNZJ8",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 49252
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 10,
+      "minute" : 5
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 27,
+      "hour" : 21,
+      "minute" : 22
+    },
+    "nameShip" : "7cgfjB5suctUq",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3822
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 15,
+      "minute" : 42
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 1,
+      "minute" : 39
+    },
+    "nameShip" : "g3bf4W3nbzsK",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 50149
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 11,
+      "minute" : 34
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 2,
+      "minute" : 15
+    },
+    "nameShip" : "08ubIjs3",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 67001
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 26
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 3,
+      "minute" : 19
+    },
+    "nameShip" : "UbOHfdmee6",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 55441
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 13,
+      "minute" : 36
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 3,
+      "minute" : 35
+    },
+    "nameShip" : "8Y7AMb1AnTg3oWJ1J",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 53771
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 11,
+      "minute" : 44
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 4,
+      "minute" : 46
+    },
+    "nameShip" : "kmhltLwU28ysd5gLH",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 48821
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 9,
+      "minute" : 22
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 5,
+      "minute" : 33
+    },
+    "nameShip" : "1Gsjo2ZuhqEKq8K2G",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 59561
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 3,
+      "minute" : 16
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 6,
+      "minute" : 51
+    },
+    "nameShip" : "OJlKxUcrcVI5dUlQHzsE",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 52659
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 10,
+      "minute" : 30
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 7,
+      "minute" : 41
+    },
+    "nameShip" : "JW4skksJaN",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 60456
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 10
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 7,
+      "minute" : 45
+    },
+    "nameShip" : "NqpR4dtF0I7tm44NPXgL",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 68852
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 4,
+      "minute" : 30
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 8,
+      "minute" : 55
+    },
+    "nameShip" : "EMpUbPy2Va5o9PF",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5558
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 20,
+      "minute" : 38
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 10,
+      "minute" : 15
+    },
+    "nameShip" : "GQCAuMW5",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 3342
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 7,
+      "minute" : 42
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 14,
+      "minute" : 11
+    },
+    "nameShip" : "R8F6PdQF",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2815
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 22,
+      "minute" : 55
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 15,
+      "minute" : 0
+    },
+    "nameShip" : "PJuwiMJQZ",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5114
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 13,
+      "minute" : 14
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 16,
+      "minute" : 43
+    },
+    "nameShip" : "V14FFgruPWs",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 57475
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 23,
+      "minute" : 47
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 18,
+      "minute" : 40
+    },
+    "nameShip" : "Kd0NRybMl",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 69136
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 4,
+      "minute" : 49
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 18,
+      "minute" : 55
+    },
+    "nameShip" : "AWlU4p0pebpoFBes07X",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 50878
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 12,
+      "minute" : 47
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 19,
+      "minute" : 8
+    },
+    "nameShip" : "dfsqjpnGYe067VUegnOA",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 57670
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 16,
+      "minute" : 4
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 28,
+      "hour" : 22,
+      "minute" : 23
+    },
+    "nameShip" : "0jJ54V2ckuj",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 58042
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 0,
+      "minute" : 44
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 29,
+      "hour" : 0,
+      "minute" : 50
+    },
+    "nameShip" : "tmKuJQvA",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 69194
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 4,
+      "minute" : 52
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 29,
+      "hour" : 4,
+      "minute" : 37
+    },
+    "nameShip" : "PNaskIVAsaztqYt",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 43827
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 1,
+      "minute" : 2
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 29,
+      "hour" : 5,
+      "minute" : 13
+    },
+    "nameShip" : "wfkixOIguC",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 51288
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 8,
+      "minute" : 59
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 29,
+      "hour" : 5,
+      "minute" : 14
+    },
+    "nameShip" : "OX9dmCHx35wR6Lj8faHn",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 4764
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 7,
+      "minute" : 24
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 29,
+      "hour" : 5,
+      "minute" : 26
+    },
+    "nameShip" : "QOCY7fy2IL8z37ah",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 59264
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 2,
+      "minute" : 46
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 29,
+      "hour" : 5,
+      "minute" : 50
+    },
+    "nameShip" : "crSV7pF1z0W",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 40227
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 2
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 29,
+      "hour" : 8,
+      "minute" : 59
+    },
+    "nameShip" : "qv0iomMyzhcbcASf",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 50188
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 11,
+      "minute" : 38
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 29,
+      "hour" : 10,
+      "minute" : 6
+    },
+    "nameShip" : "uJKRTvdfr6Ui2bF",
+    "cargo" : {
+      "typeOfCargo" : "LOOSE",
+      "amountOfCargo" : 40622
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 19,
+      "minute" : 42
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 29,
+      "hour" : 12,
+      "minute" : 7
+    },
+    "nameShip" : "8FZntXv4y0XrPMLR",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 67135
+    },
+    "parkingTime" : {
+      "day" : 3,
+      "hour" : 2,
+      "minute" : 35
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 29,
+      "hour" : 12,
+      "minute" : 44
+    },
+    "nameShip" : "09CvZpg4L9Nj8jK5",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 62188
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 21,
+      "minute" : 5
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 29,
+      "hour" : 12,
+      "minute" : 50
+    },
+    "nameShip" : "MLjnB3iOmOpOziNp",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 2108
+    },
+    "parkingTime" : {
+      "day" : 1,
+      "hour" : 11,
+      "minute" : 8
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 29,
+      "hour" : 15,
+      "minute" : 2
+    },
+    "nameShip" : "u36MnoxzzfMAlBU3",
+    "cargo" : {
+      "typeOfCargo" : "CONTAINER",
+      "amountOfCargo" : 5802
+    },
+    "parkingTime" : {
+      "day" : 4,
+      "hour" : 0,
+      "minute" : 42
+    }
+  }, {
+    "dataAndTimeOfArrival" : {
+      "day" : 29,
+      "hour" : 21,
+      "minute" : 58
+    },
+    "nameShip" : "JcS4eD1qFo2nFuWmGxZ",
+    "cargo" : {
+      "typeOfCargo" : "LIQUID",
+      "amountOfCargo" : 58441
+    },
+    "parkingTime" : {
+      "day" : 2,
+      "hour" : 16,
+      "minute" : 56
+    }
+  } ]
+}
